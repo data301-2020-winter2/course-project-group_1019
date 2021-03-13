@@ -1,4 +1,4 @@
-# _Milestone 2_
+# __Milestone 2__
 
 
 ## *Plan*
