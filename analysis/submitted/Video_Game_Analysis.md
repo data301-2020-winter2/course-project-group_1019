@@ -403,10 +403,10 @@ The highest number of games released was in 2008 with 399 games.
 
 The Highest Recorded Sales was in 2008 with  489.12 Sales(Millions of Units).
 ### *What is the Average Sale of a Game Each Year?*
-
+*Figure 3.6 - Average Number of Sales per Game Released for Each Publisher*
 ![AverageSaleForEachGameEachYear](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/AverageSaleForEachGameEachYear.png?raw=true)
 
-*Figure 3.6 - Average Number of Sales per Game Released for Each Publisher*
+
 
 
 From Figures 3.4 and 3.5,  Shows the growth of gaming industry through out the years.
