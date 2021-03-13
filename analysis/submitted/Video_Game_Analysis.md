@@ -356,6 +356,7 @@ The first game (according to the dataset after it was cleaned) that was rated by
 *Figure 3.2-Total Number of Games Released for Each Publisher*
 
 The Publisher with the most Games Released is: Electronic Arts
+Electronic Arts have published more 900 different game titles.
 
 ### *Which Publisher has the Most Sales per Game in Each Region?*
 ![AverageNumberOfSalesPerGameforPublisher](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/AverageNumberOfSalesPerGameforPublisher.png?raw=true)
@@ -382,10 +383,13 @@ Another observation is that the markets for each region differs from each other.
 ![NumberOfEachGameReleased](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/NumberOfGamesReleasedEachYear.png?raw=true)
 *Figure 3.4- Number of Games Released Each Year*
 
+The highest number of games released was in 2008 with 399 games.
+
 ### *What is the Total Sales Released Over The Years?*
 ![TotalSalesEachYear](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/TotalSalesEachYear.png?raw=true)
 *Figure 3.5 -Total Sales Each Year*
 
+The Highest Recorded Sales was in 2008 with  489.12 Sales(Millions of Units).
 ### *What is the Average Sale of a Game Each Year?*
 
 ![AverageSaleForEachGameEachYear](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/AverageSaleForEachGameEachYear.png?raw=true)
