@@ -72,11 +72,9 @@ In approaching this EDA, we had come up with some questions to help guide our pe
 - What correlation, if any, exists between the number of videogames available and the sales of videogames?
 - how does the timeframe the console is active for affect its sales?
 - Is competition a big factor in sales(does less competition mean more profits)?
-- 
 - Which videogame *genre* tends to *sell better / more*?
 - What is the *correlation* between *game ratings, sales, and genre*?
 - When did the ratings first begin for videogames? 
-- 
 
 These research questions were divided among us, and every team memeber was in charge of handling, analyzing and making conclusions for a handfull of questions. This was divided in groups, as these questions were grouped up based on their general areas of analysis. These were with the platforms and sales; genres, ratings, and sales; and pulishers, years and sales.
 
@@ -270,7 +268,7 @@ To answer this, we plotted the unique genres versus the total global sales for t
 
 Below, the plot for the Videogame Genres vs Global Sales can be seen.
 
-![Videogame Genres vs Global Sales](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Eduardo/Milestone%202/Eduardo_EDA_Plots/sales_by_genre.png)
+![Videogame Genres vs Global Sales](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Eduardo/Milestone%202/Eduardo_EDA_Plots_Images/sales_by_genre.png)
 
 *Figure 2.1 - Videogame Genres vs Global Sales*
 
@@ -286,7 +284,7 @@ Since there is such a variation in both the sales, roughly 1.2 billion, 833 mill
 
 To address this, we chose to normalize the bar chart, to show how much a game of each genre will make *on average*! Like this, we can more accurately see which game genre tends to make the most sales per game.
 
-![Videogame Genres vs Global Sales Normalized](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Eduardo/Milestone%202/Eduardo_EDA_Plots/sales_by_genre_normalized.png)
+![Videogame Genres vs Global Sales Normalized](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Eduardo/Milestone%202/Eduardo_EDA_Plots_Images/sales_by_genre_normalized.png)
 
 *Figure 2.2 - Videogame Genres vs Global Sales Normalized*
 
@@ -305,7 +303,7 @@ Again, like in the previous question, the unique Ratings for videogames was plot
 
 In this dataset, the ratings that are present are E, M, T, E10+, AO, and RP. These ratings are for Everyone (all ages), Mature (ages 17+), Teen a(ages 13+), Everyone 10+ (ages 10+), Adults Only (ages 18+), and finally Rating Pending, for games which have not yet recieved a final ESRB rating. 
 
-![Videogame Ratings vs Global Sales](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Eduardo/Milestone%202/Eduardo_EDA_Plots/sales_by_rating.png)
+![Videogame Ratings vs Global Sales](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Eduardo/Milestone%202/Eduardo_EDA_Plots_Images/sales_by_rating.png)
 
 *Figure 2.3 - Videogame Ratings vs Global Sales*
 
@@ -313,7 +311,7 @@ In *Figure 2.3*, we see that the games which are rated E for Everyone are the mo
 
 Now, as we did with the previous question, we will normalize this plot and check again to see which videogame rating tends to sell the most units again on average. We make sure to do this because we have in total 2083 E rated games, 1433 M rated games, and 2377 T rated games. There is some differences between the the number of games rated E and those rated T. Yet, interestingly enough, we see clearly here that more of a game rating does not mean that the game will sell more! This was not the case represented in the previous question!
 
-![Videogame Ratings vs Global Sales Normalized](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Eduardo/Milestone%202/Eduardo_EDA_Plots/sales_by_rating_normalized.png)
+![Videogame Ratings vs Global Sales Normalized](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Eduardo/Milestone%202/Eduardo_EDA_Plots_Images/sales_by_rating_normalized.png)
 
 *Figure 2.4 - Videogame Ratings vs Global Sales Normalized*
 
