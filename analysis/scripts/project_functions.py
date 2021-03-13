@@ -7,7 +7,7 @@ import pandas_profiling as pdp
 #dataclean = loadCleanFile()
 
 def load_and_process():
-  #this function loads the csv to process it
+  #this function loads the csv to process it, most commonly used in invdividual EDA's and the group analysis. 
   rawdata = pd.read_csv("https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/data/raw/Video_Games_Sales_as_at_22_Dec_2016.csv?raw=true.csv") 
   # Preview the basic information of the loaded data 
   print(rawdata.info())
