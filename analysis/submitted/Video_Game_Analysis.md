@@ -90,7 +90,7 @@ Because of these differences, different platforms *can* act as an isolated insta
 
 ![global sales over all time for each platform](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/global%20sales%20over%20all%20time%20for%20each%20console.png)
 
-*Figure 1.1 - global sales for each platform*
+*Figure 1.1 - Global Sales for each Platform*
 
 We should first consider that biases towards certain platforms will exist. This bias, although minimal, is most obvious when comparing by region. The culture and history of each region most certainly has an effect on the platform purchased by a particular individual.
 
@@ -117,11 +117,11 @@ the data is shown below in *Figures 1.2-1.6*:
 | Regional Biases      |  |
 | ----------- | ----------- |
 | ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvail.png)      | ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailNA.png)      |
-|  *Figure 1.2 - unique games purchased globally*         |  *Figure 1.3 - unique games purchased in North America*           |
+|  *Figure 1.2 - Unique Games Purchased Globally*         |  *Figure 1.3 - Unique Games Purchased in North America*           |
 | ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailEU.png)    | ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailJP.png)       |
-|  *Figure 1.4 - unique games purchased in Europe*         |  *Figure 1.5 - unique games purchased in Japan*           |
+|  *Figure 1.4 - Unique Games Purchased in Europe*         |  *Figure 1.5 - Unique Games Purchased in Japan*           |
 | ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailOther.png)    |  |
-|  *Figure 1.6 - unique games purchased in other parts of the world*         |             |
+|  *Figure 1.6 - Unique Games Purchased in Other Parts of the World*         |             |
 
 
 
@@ -133,7 +133,7 @@ We started with the data from *Figure xxx*, which shows the PS2, Xbox-360 (X360)
 
 ![global sales and games available](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/global%20sales%20and%20games%20available.png)
 
-*Figure 1.7 - global sales and unique games available scatter plot*
+*Figure 1.7 - Global Sales and Unique Games Available Scatter Plot*
 
 from *Figure 1.7* we could see that there was a clear correlation between the number of videogames available and the videogame units sold worldwide, which is to be expected. This didn't really reveal much, as having more goods available will genrally lead to more sales, so we decided to normalize the data, according to the number of videogames available, so we could see the mean number of videogame units sold for each console.
 
@@ -142,14 +142,14 @@ We then looked at the same figures after they were normalized, first *Figure 1.8
 
 ![mean global sales over all time for each platform](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/mean%20global%20sales%20over%20all%20time%20for%20each%20console.png)
 
-*Figure 1.8 - mean global sales per game for each platform*
+*Figure 1.8 - Mean Global Sales Per Game for each Platform*
 
 and then *Figure 1.9*:
 
 
 ![Normalized global sales and games available](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/mean%20global%20sales%20and%20games%20available.png)
 
-*Figure 1.9 - mean global sales and unique games available scatter plot*
+*Figure 1.9 - Mean Global Sales and Unique Games Available Scatter Plot*
 
 from *Figures 1.9 and 1.8* we can see that the PS and Wii platforms, have teh highest mean number of units sold per videogame, and that the previous leaders, were still competetitive but did not standout as they did previously. Particularly *Figure 1.9* provided clear insight that releasing lots of videogames for a particular console had no straight-forward correlation to the number of units those videogames would sell. 
 We think this is pretty clear, but if you believe otherwise I challenge you to divine a simple relationship between the mean number of units sold per videogame, and the number of videogames available(using *Figure 1.9*). 
@@ -164,7 +164,7 @@ Let's first have a look at the distrbution of videogame releases for each platfo
 
 ![distribution of games for each console](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/distribution%20of%20games%20for%20each%20console.png)
 
-*Figure 1.10 - distribution of videogame releases over time*
+*Figure 1.10 - Distribution of Videogame Releases Over Time*
 
 here we can see that the lifespan of all of these platforms tends to be 4-10 years, with the GBA having active videogame releases for only 4 years, and the PS2 having active releases for a little over 10 years. The PC is the obvious outlier having released videogames for over 30 years.
 
@@ -173,13 +173,13 @@ Let's know have a look at the mean year of release for videogames on each platfo
 
 ![Expected year of release vs global sales](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/expected%20year%20of%20release%20vs%20global%20sales.png)
 
-*Figure 1.11 - average year of release, for a videogame, for a given platform*
+*Figure 1.11 - Average Year of Release, For a Videogame, For a Given Platform*
 
 From *Figure 1.11* we can see that there is an outlier in the PS2 and a spike in 2008-10 for certain platforms. Given our knowledge of the massive success of the PS, we can safely assume that the PS2's success was somewhat thanks to the rapport that people had with SONY (creator of the PS). This in turn propbably caused an increased demand for videogames, allowing the next generation of platforms (PS3, X360, Wii) to all experience great sales.
 
 The generation after *that* was different yet again and was when, we believe, the competition between platform developers started to impact sales more definitively.
 #
-### *competition and true comparison*
+### *Competition and True Comparison*
 The competition between platform developers was somewhat limited before 2010. One reason for this could be the limited online multiplayer experience before then, as once this environment became popular it was very important which platform you were playing on.
 
 So let's compare two consoles who have had feirce competition after this boom in online gaming, and are also somewhat similar in the lenght of time they have been around, see *Figure 1.12a*:
@@ -187,14 +187,14 @@ So let's compare two consoles who have had feirce competition after this boom in
 
 ![global sales and years active for consoles](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/Global%20sales%20and%20years%20active%20for%20consoles.png)
 
-*Figure 1.12 - global sales compared to years active*
+*Figure 1.12 - Global Sales Compared to Years Active*
 
 obviously PC is an outlier, so we removed it as predicted:
 
 
 ![global sales and years active for consoles, outlier removed](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/Global%20sales%20and%20years%20active%20for%20consoles%2C%20adjusted.png)
 
-*Figure 1.12a - global sales compared to years active (outliers removed)*
+*Figure 1.12a - Global Sales Compared to Years Active (outliers removed)*
 
 The XOne and PS4 are a pretty good choice, although relatively new, they are very similar, having been released within 7 days of each other.
 
@@ -210,7 +210,7 @@ Microsoft produces XOne consoles and is based in North America, which leads to t
 
 ![mean sales in each region](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/mean%20sales%20in%20each%20region.png)
 
-*Figure 1.13 - mean sales for XOne and PS4, by region (XOne-green, PS4-blue)*
+*Figure 1.13 - Mean Sales for XOne and PS4, by region (XOne-green, PS4-blue)*
 
 We could also look at the critic and user score averages for the games, and we can see that the critic ratings are approximately the same:( */100)
 

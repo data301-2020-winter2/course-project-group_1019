@@ -1,1 +1,3 @@
-all submitted work is in here
+**README.md for submitted folder** 
+
+In this **submitted folder**, the basic, 
