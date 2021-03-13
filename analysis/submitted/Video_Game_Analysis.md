@@ -100,7 +100,7 @@ Hopefully from this we can find some basic indicators for the success of a video
 - ***how does the timeframe the console is active for affect its sales?***
 - ***Is competition a big factor in sales(does less competition mean more profits)?***
 #
-### *data setup*
+### *Data Setup*
 for the analysis of this section, the data was organized as follows:
 - the data was filtered to only include the columns with names: **'Name', 'Platform', 'Year_of_Release', 'Genre', 'Publisher', 'EU_Sales', 'NA_Sales', 'JP_Sales', 'Other_Sales', 'Global_Sales', 'Critic_Score', 'User_Score'**
 - then sorted by console, and name
@@ -113,19 +113,21 @@ If one were to use only videogames available to all platforms, there would be ve
 the data is shown below in *Figures 1.2-1.6*:
 
 
-///insert regional biases///
 
 | Regional Biases      |  |
 | ----------- | ----------- |
-| ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvail.png) *Figure 1.2 - unique games purchased globally*     | ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailNA.png) *Figure 1.3 - unique games purchased in North America*     |
-| ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailEU.png) *Figure 1.4 - unique games purchased in Europe*   | ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailJP.png) *Figure 1.5 - unique games purchased in Japan*      |
-| ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailOther.png) *Figure 1.6 - unique games purchased in other parts of the world*   |  |
+| ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvail.png)      | ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailNA.png)      |
+|  *Figure 1.2 - unique games purchased globally*         |  *Figure 1.3 - unique games purchased in North America*           |
+| ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailEU.png)    | ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailJP.png)       |
+|  *Figure 1.4 - unique games purchased in Europe*         |  *Figure 1.5 - unique games purchased in Japan*           |
+| ![unique games purchased globally](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Aidan/Milestone_2/numAvailOther.png)    |  |
+|  *Figure 1.6 - unique games purchased in other parts of the world*         |             |
 
 
 
 As you can see from *figures 1.2-1.6*, regional bias does play a part in the popularity of platform, but there are other factors which play a more significant role in determining the success of a platform.
 #
-### *Number of available videogames*
+### *Number of Available Videogames*
 We started with the data from *Figure xxx*, which shows the PS2, Xbox-360 (X360), and PS3 far ahead of the competition, this is hardly surprising given the increase in popularity of videogames after the release of the original Playstation (PS). From here we plotted the number of unique videogames available to the number of global sales on that platform, to obtain the *Figure 1.7*:
 
 
@@ -342,7 +344,9 @@ The first game (according to the dataset after it was cleaned) that was rated by
 ------------------
 ## Publisher Games Sales 
 ### *Which Publisher has the Most Sales Per Region?*
+
 ![TotalNumberOfSales](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/TotalNumberOfSalesforEachPublisher.png?raw=true)
+
 *Figure 3.1 -Total Number of Sales for Each Publisher*
 
 - The Publisher with the most Sales Globally between 1985-2016 is: Electronic Arts
@@ -352,14 +356,18 @@ The first game (according to the dataset after it was cleaned) that was rated by
 - The Publisher with the most Sales in Other Regions between 1985-2016 is: Electronic Arts
 
 ### *Which Publisher Released the Most Games?*
+
 ![TotalNumberOfGameReleasedEachPublisher](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/TotalNumberOfGameReleasedEachPublisher.png?raw=true  )
+
 *Figure 3.2-Total Number of Games Released for Each Publisher*
 
 The Publisher with the most Games Released is: Electronic Arts
 Electronic Arts have published more 900 different game titles.
 
 ### *Which Publisher has the Most Sales per Game in Each Region?*
+
 ![AverageNumberOfSalesPerGameforPublisher](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/AverageNumberOfSalesPerGameforPublisher.png?raw=true)
+
 *Figure 3.3 - Average Number of Sales per Game Released for Each Publisher*
 
 - The Publisher with the Most Sales per Game Globally is: Nintendo 
@@ -380,19 +388,24 @@ Another observation is that the markets for each region differs from each other.
 
 ## Game Sales Over The Years
 ### *What is the Number of Games Released Over The Years?*
+
 ![NumberOfEachGameReleased](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/NumberOfGamesReleasedEachYear.png?raw=true)
+
 *Figure 3.4- Number of Games Released Each Year*
 
 The highest number of games released was in 2008 with 399 games.
 
 ### *What is the Total Sales Released Over The Years?*
+
 ![TotalSalesEachYear](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/TotalSalesEachYear.png?raw=true)
+
 *Figure 3.5 -Total Sales Each Year*
 
 The Highest Recorded Sales was in 2008 with  489.12 Sales(Millions of Units).
 ### *What is the Average Sale of a Game Each Year?*
 
 ![AverageSaleForEachGameEachYear](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/AverageSaleForEachGameEachYear.png?raw=true)
+
 *Figure 3.6 - Average Number of Sales per Game Released for Each Publisher*
 
 
@@ -422,3 +435,5 @@ From this information, we can infer that the release of consoles impact the rele
 - The ESRB ratings began in 1994 which is when the ESRB was formed - however, there are also games which were **originally** released prior to this that are also rated. We discovered that these few games (those in the dataset that make up this condition) were all re-released at some point years later. It was this new release of the same game which recieved the ESRB rating, and due to both games, old and new, being nearly identical, the rating branched and applied as well to the original game.
 
 - Different publishers tend to do better/ worse in different regional markets
+
+- There is a  spike in 2008 when the consoles: Wii U, Playstation 3 and  XBOX-360 were released
