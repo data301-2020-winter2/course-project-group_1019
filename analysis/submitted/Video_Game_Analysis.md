@@ -345,17 +345,21 @@ The first game (according to the dataset after it was cleaned) that was rated by
 ![TotalNumberOfSales](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/TotalNumberOfSalesforEachPublisher.png?raw=true)
 *Figure 3.1 -Total Number of Sales for Each Publisher*
 
-
 - The Publisher with the most Sales Globally between 1985-2016 is: Electronic Arts
 - The Publisher with the most Sales in North America between 1985-2016 is: Electronic Arts
 - The Publisher with the most Sales in Europe between 1985-2016 is: Electronic Arts
 - The Publisher with the most Sales in Japan between 1985-2016 is: Nintendo
 - The Publisher with the most Sales in Other Regions between 1985-2016 is: Electronic Arts
 
-### *Which Publisher has the Most Sales per Game in Each Region?*
+### *Which Publisher Released the Most Games?*
+![TotalNumberOfGameReleasedEachPublisher](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/TotalNumberOfGameReleasedEachPublisher.png?raw=true  )
+*Figure 3.2-Total Number of Games Released for Each Publisher*
 
+The Publisher with the most Games Released is: Electronic Arts
+
+### *Which Publisher has the Most Sales per Game in Each Region?*
 ![AverageNumberOfSalesPerGameforPublisher](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/AverageNumberOfSalesPerGameforPublisher.png?raw=true)
-*Figure 3.2 - Average Number of Sales per Game Released for Each Publisher*
+*Figure 3.3 - Average Number of Sales per Game Released for Each Publisher*
 
 - The Publisher with the Most Sales per Game Globally is: Nintendo 
 - The Publisher with the Most Sales per Game in North America is: RedOctane
@@ -363,27 +367,42 @@ The first game (according to the dataset after it was cleaned) that was rated by
 - The Publisher with the Most Sales per Game in Japan is: SquareSoft
 - The Publisher with the Most Sales per Game in Other Regions is: Hello Games
 
+From these following graph, we can find the biggest publishers in the gaming industry:
+- Electronic Arts
+- Nintendo
+- Ubisoft 
 
+From this information, we can infer different publishers tend to do better/ worse in different regional markets.
 
+Another observation is that the markets for each region differs from each other. The NA and EU markets are similar to each other,  but the Japanese Market is different from the NA and EU market.
 
 
 ## Game Sales Over The Years
+### *What is the Number of Games Released Over The Years?*
+![NumberOfEachGameReleased](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/NumberOfGamesReleasedEachYear.png?raw=true)
+*Figure 3.4- Number of Games Released Each Year*
 
+### *What is the Total Sales Released Over The Years?*
 ![TotalSalesEachYear](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/TotalSalesEachYear.png?raw=true)
-*Figure 3.3 -Total Sales Each Year*
+*Figure 3.5 -Total Sales Each Year*
 
-
-
+### *What is the Average Sale of a Game Each Year?*
 
 ![AverageSaleForEachGameEachYear](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/AverageSaleForEachGameEachYear.png?raw=true)
-*Figure 3.4 - Average Number of Sales per Game Released for Each Publisher*
-
-![NumberOfEachGameReleased](https://github.com/data301-2020-winter2/course-project-group_1019/blob/main/analysis/Nathan/Images/NumberOfGamesReleasedEachYear.png?raw=true)
-*Figure 3.5- Number of Games Released Each Year
+*Figure 3.6 - Average Number of Sales per Game Released for Each Publisher*
 
 
+From Figures 3.4 and 3.5,  Shows the growth of gaming industry through out the years.
 
+From Figure 3.4 and 3.6, Shows the average sales of a game declining as more games being released. 
 
+From these graphs, we can see two noticible spikes:
+
+One noticible spike occurs in 2001, This spike occurs during the same period when the consoles: Xbox and Playstation 2 were being released.
+
+Another noticible spike occurs in 2008, This spike during the same period when the consoles: Wii U, Playstation 3 and  XBOX-360 were released
+
+From this information, we can infer that the release of consoles impact the release of games and total sales throughout the year. There tends to be a spike in games when the release of new consoles. 
 
 ------------------
 ## Summary
@@ -398,4 +417,4 @@ The first game (according to the dataset after it was cleaned) that was rated by
 
 - The ESRB ratings began in 1994 which is when the ESRB was formed - however, there are also games which were **originally** released prior to this that are also rated. We discovered that these few games (those in the dataset that make up this condition) were all re-released at some point years later. It was this new release of the same game which recieved the ESRB rating, and due to both games, old and new, being nearly identical, the rating branched and applied as well to the original game.
 
-- 
+- Different publishers tend to do better/ worse in different regional markets
