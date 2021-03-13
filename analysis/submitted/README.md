@@ -1,7 +1,8 @@
-**README.md for submitted folder** 
+# **README.md for submitted folder** 
 
 In this submitted folder, the general, summarative EDA for *Milestone 2* can be found inside the **Video_Game_Analysis.md** markdown file. 
 
+## Video_Game_Analysis.md markdown file
 The **Video_Game_Analysis.md** markdown file will:
 - Overview the dataset we are working with
 - Present the initialization done at the start
