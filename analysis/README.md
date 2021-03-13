@@ -2,6 +2,7 @@
 
 
 ## Plan
+- February 26 - Planned Meeting and deadlines
 - March 5- Worked on the EDA
 - March 12- Finished the Analysis
 
