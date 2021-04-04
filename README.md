@@ -53,7 +53,8 @@ Note: This dataset was checked and approved by Amir.
 - Nathan Jacinto: 2nd Year Computer Science Student
 
 ## Lab 7
-The links to the tableau online dashboards for each group member can be found below:
+The Tableau files for lab 7 can be found in the Tableau_Dashes directory in the main repository,
+And the links to the tableau online dashboards for each group member can be found below:
 
 *[Aidan](https://us-west-2b.online.tableau.com/#/site/data301/views/1019_Aidan_lab7/general?:iid=1)*
 
