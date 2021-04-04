@@ -54,6 +54,7 @@ Note: This dataset was checked and approved by Amir.
 
 ## Lab 7
 The links to the tableau online dashboards for each group member can be found below:
+
 *[Aidan](https://us-west-2b.online.tableau.com/#/site/data301/views/1019_Aidan_lab7/general?:iid=1)*
 
 ## References
