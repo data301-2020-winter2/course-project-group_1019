@@ -52,6 +52,10 @@ Note: This dataset was checked and approved by Amir.
 - Eduardo Sequeira: Master of Applied Science Student
 - Nathan Jacinto: 2nd Year Computer Science Student
 
+## Lab 7
+The links to the tableau online dashboards for each group member can be found below:
+*[Aidan](https://us-west-2b.online.tableau.com/#/site/data301/views/1019_Aidan_lab7/general?:iid=1)*
+
 ## References
 
 *[Kaggle, video game sales with ratings - original source](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)*
