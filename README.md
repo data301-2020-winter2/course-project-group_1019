@@ -58,6 +58,11 @@ And the links to the tableau online dashboards for each group member can be foun
 
 *[Aidan](https://us-west-2b.online.tableau.com/#/site/data301/views/1019_Aidan_lab7/general?:iid=1)*
 
+## Video Presentation
+The video presentation of our group tableau dashboard is linked below:
+
+https://drive.google.com/file/d/1Eergl1ZlDL2QuiE8Cx0RBI6nYIhb4QzQ/view?usp=sharing
+
 ## References
 
 *[Kaggle, video game sales with ratings - original source](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)*
